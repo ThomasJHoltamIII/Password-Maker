@@ -6,9 +6,11 @@ const password = document.getElementById(`password`);
 // Drop Down Menu Code
 const generateButton = document.getElementById("generate");
 const optionsMenu = document.getElementById("options-menu");
+
 generateButton.addEventListener("click", () => {
-  optionsMenu.style.display = optionsMenu.style.display === "block" ? "none" : "block";
+  optionsMenu.style.display = "block";
 });
+
 
 
 //An Array built to log a string of numbers to be pulled for character codes

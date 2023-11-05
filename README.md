@@ -15,7 +15,7 @@ This application generates a password for you. It has a drop-down menu that open
 The following image shows the web application's appearance and functionality:
 
 
-[The password generator, featuring its options] (./assets/Application.jpg)
+![The password generator, featuring its options](./assets/Application.jpg)
 
 ## Deployed Application
 

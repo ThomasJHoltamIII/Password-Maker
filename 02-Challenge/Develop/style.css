@@ -97,6 +97,11 @@ button[disabled] {
   float: right;
 }
 
+/* Drop Down Menu */
+.options-menu {
+  display: none;
+}
+
 #password {
   -webkit-appearance: none;
   -moz-appearance: none;
